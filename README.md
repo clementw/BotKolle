@@ -1,2 +1,2 @@
 # BotKolle
-A collection of bots to scan inventory and place orders (some sites) utilizing puppeteer
+A collection of tools to source inventory for hard to find products
